@@ -1,0 +1,65 @@
+/* Main markup */
+html, 
+body, 
+main {
+  margin: auto;
+  height: 116%;
+  width: 840px;
+  font-family: Arial, sans-serif;
+  background-color: #eee;
+}
+
+/* Set heigth of header */
+header {  height: 210px;  }
+
+/* Photo position */
+.photo {
+  position: absolute;
+  margin-left: 40px;
+}
+
+/* Position of name */
+.name {
+  position: absolute;
+  padding: 10px;
+  color: #00f;
+}
+
+/* Style of h1, h2 and h3 tags */
+h1 {  margin: 40px 5px 5px 270px;  }
+
+h2 {  margin-left: 30px;  }
+
+h3 {  margin: 100px 5px 5px 270px;  }
+
+/* Markup of the left and right blocks with the main information */
+.left-block {  
+  float: left;
+  width: 40%;
+  height: 100%;
+  background-color: #777;
+}
+
+.right-block {  
+  float: right;
+  width: 60%;
+  height: 100%;
+  background-color: #ccc;
+}
+
+/* The main text format */
+.text {
+  margin: auto;
+  width: 88%;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+/* Format of date text */
+.italic-text {
+  display: block;
+  margin-top: 403px;
+  text-align: center;
+  font-style: italic;
+  font-size: 10px;
+}
