@@ -20,7 +20,7 @@ C#/.NET, ASP.NET Core, PostgreSQL
 
 3+ years as .NET backend developer
 
-## Education (including completed courses and training)
+## Education
 
 Electronic engineer
 
